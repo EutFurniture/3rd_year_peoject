@@ -1,0 +1,90 @@
+.cardcollection{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.admincard1{
+    background: #d1ecf1;
+    color: #35a4ba;
+    text-align: center;
+ width: 270px;
+ height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard2{
+    background: #d2f9ee;
+    color: #38e1b0;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard3{
+    background: #d6d8d9;
+    color: #3a3e41;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard5{
+    background: #ffe5b4;
+    color: #ffb347;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.admincard4{
+    background: #fddcdf;
+    color: #f65a6f;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard6{
+    background: #fbcce7;
+    color: #ec3b83;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard7{
+    background: #fff8dc;
+    color: #f5c71a;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.admincard8{
+    background: #e6e6fa;
+    color: #800080;
+    text-align: center;
+   
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+
