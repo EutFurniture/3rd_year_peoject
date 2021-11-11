@@ -1,0 +1,118 @@
+.searchbar{
+    display:flex;  
+    width: 900px;
+    height:40px;
+    box-shadow: 0px 0px 12px -5px rgba(0, 0, 0, 0.75);
+    
+    
+    }
+    .searchbar>input{
+        border: none;
+        font-size: 18px;
+        padding-left: 10px;
+    }
+    .searchicon{
+        margin-top: 5px;
+        margin-left: 120px;
+        color: grey;
+    }
+    .tableheading{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 18px;
+        background-color: #1e90ff;
+        color: white;
+        text-align: center;
+    }
+    .tablebody{
+       font-size: 15px;
+    }
+    tr{
+        height:60px;
+    }
+    .box-main{
+        display: flex;   
+    }
+    .Addbtn{
+    
+        color: white;
+        border: none;
+        font-size: 20px;
+        background:#00a550;
+        display: inline-block;
+        padding: 10px ;
+        border-radius: 7px;
+         margin-left: 70px;
+        text-decoration: none;
+        width:200px;
+        text-align: center;
+    }
+    .viewbtn{
+        background-color: #00ced1;
+    width: 200px;
+    text-decoration: none;
+    height: 50px;
+    margin-right: 5px;
+   font-size: 17px;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+   border-radius: 7px;
+    }
+    .updatebtn{
+        background-color: #ffba00;
+        width: 200px;
+        text-decoration: none;
+        height: 50px;
+        margin-right: 5px;
+        font-size: 17px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: white;
+        border-radius: 7px;
+    }
+    .deletebtn{
+        background-color: rgb(253, 9, 9);
+        width: 200px;
+        text-decoration: none;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-right: 5px;
+        font-size: 17px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: white;
+        border-radius: 7px;
+    }
+    .image{
+        width:70px;
+        height:50px;
+        margin-right: 10px;
+        margin-top: 5px;
+    
+    }
+    .image1{
+        width:170px;
+        height:150px;
+        margin-right: 10px;
+        margin-top: 5px;
+    
+    }
+    .categoryInput{
+    
+        padding-left: 10px;
+        font-size: 15px;
+        color: black;
+        height: 35px;
+        width: 600px;
+        border: 1px solid #a9a9a9;
+        margin-top: 2px;
+        border: none;
+        box-shadow: 0px 0px 15px -5px rgba(245, 244, 244, 0.75);
+        border-radius: 10px;
+    
+    }
